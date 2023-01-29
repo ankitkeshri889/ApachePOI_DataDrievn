@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T16:58:10 IST" name="Default suite" finished-at="2023-01-29T16:58:39 IST" duration-ms="28854">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T16:58:10 IST" name="Default test" finished-at="2023-01-29T16:58:39 IST" duration-ms="28854">
+      <class name="dataDrivenTesting.ExcelBlazeDemoHomePage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:10 IST" name="setup" finished-at="2023-01-29T16:58:12 IST" duration-ms="1792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:13 IST" name="verifyLoginTest" data-provider="dp" finished-at="2023-01-29T16:58:15 IST" duration-ms="2275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:15 IST" name="verifyLoginTest" data-provider="dp" finished-at="2023-01-29T16:58:17 IST" duration-ms="1532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Boston]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:17 IST" name="verifyLoginTest" data-provider="dp" finished-at="2023-01-29T16:58:18 IST" duration-ms="1467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Philadelphia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Berlin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:18 IST" name="verifyLoginTest" data-provider="dp" finished-at="2023-01-29T16:58:20 IST" duration-ms="1659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Portland]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dublin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:20 IST" name="verifyLoginTest" data-provider="dp" finished-at="2023-01-29T16:58:22 IST" duration-ms="1569" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[San Diego]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cairo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.lang.String,java.lang.String)[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:22 IST" name="verifyLoginTest" data-provider="dp" finished-at="2023-01-29T16:58:23 IST" duration-ms="1527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mexico City]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dublin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dataDrivenTesting.ExcelBlazeDemoHomePage@550dbc7a]" started-at="2023-01-29T16:58:23 IST" name="tearDown" finished-at="2023-01-29T16:58:39 IST" duration-ms="16254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dataDrivenTesting.ExcelBlazeDemoHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
